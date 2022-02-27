@@ -1,2 +1,5 @@
-# hyperblog
-Un blog increíble para el curso de Git y Github de Platzi
+# Hyper blog
+>Estoy escribiendo el readme para probar
+
+
+**Tal vez esto se vea bien**
